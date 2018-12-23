@@ -1,0 +1,48 @@
+Dec 10, 2018 5:30:23 PM LoggerUtil.LogRecord log
+INFO: c3 logged in.
+Dec 10, 2018 5:30:34 PM LoggerUtil.LogRecord log
+INFO: sysadmin logged in.
+Dec 10, 2018 5:31:15 PM LoggerUtil.LogRecord log
+INFO: dealer1 logged in.
+Dec 10, 2018 5:31:37 PM LoggerUtil.LogRecord log
+INFO: customer1 logged in.
+Dec 10, 2018 5:32:36 PM LoggerUtil.LogRecord log
+INFO: dealer1 logged in.
+Dec 10, 2018 5:34:03 PM LoggerUtil.LogRecord log
+INFO: dealer1 logged in.
+Dec 10, 2018 5:34:18 PM LoggerUtil.LogRecord log
+INFO: c4 logged in.
+Dec 10, 2018 5:34:47 PM LoggerUtil.LogRecord log
+INFO: da logged in.
+Dec 10, 2018 5:34:59 PM LoggerUtil.LogRecord log
+INFO: Delivery Initiated forldkjhs
+Dec 10, 2018 5:35:02 PM LoggerUtil.LogRecord log
+INFO: Delivery Initiated for54 Saint Stephpen street
+Dec 10, 2018 5:35:10 PM LoggerUtil.LogRecord log
+INFO: c4 logged in.
+Dec 10, 2018 5:35:44 PM LoggerUtil.LogRecord log
+INFO: dealer1 logged in.
+Dec 10, 2018 5:35:56 PM LoggerUtil.LogRecord log
+INFO: customer1 logged in.
+Dec 10, 2018 5:36:20 PM LoggerUtil.LogRecord log
+INFO: c2 logged in.
+Dec 10, 2018 5:36:37 PM LoggerUtil.LogRecord log
+INFO: c3 logged in.
+Dec 10, 2018 5:36:53 PM LoggerUtil.LogRecord log
+INFO: c4 logged in.
+Dec 10, 2018 5:37:09 PM LoggerUtil.LogRecord log
+INFO: c5 logged in.
+Dec 10, 2018 5:37:23 PM LoggerUtil.LogRecord log
+INFO: c6 logged in.
+Dec 10, 2018 5:37:42 PM LoggerUtil.LogRecord log
+INFO: dealer1 logged in.
+Dec 10, 2018 5:37:55 PM LoggerUtil.LogRecord log
+INFO: c5 logged in.
+Dec 10, 2018 5:38:15 PM LoggerUtil.LogRecord log
+INFO: Delivery requested byCustomer5
+Dec 10, 2018 5:38:33 PM LoggerUtil.LogRecord log
+INFO: an logged in.
+Dec 10, 2018 5:39:07 PM LoggerUtil.LogRecord log
+INFO: da logged in.
+Dec 10, 2018 5:39:14 PM LoggerUtil.LogRecord log
+INFO: Delivery Initiated fordseffseasdvdsv
